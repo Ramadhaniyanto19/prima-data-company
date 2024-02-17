@@ -23,7 +23,7 @@ function App() {
   }, []);
   return (
     // <div className="App flex gap-6 flex-col overflow-hidden">
-    <div className="App flex  flex-col overflow-hidden">
+    <div className="App flex  flex-col overflow-hidden bg-gray-100">
       <Navbar />
       <Home />
       <AboutUs />

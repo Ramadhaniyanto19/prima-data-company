@@ -11,7 +11,7 @@ import {
 
 function ExperienceProject() {
   return (
-    <section id="experience" className="bg-white">
+    <section id="experience">
       <div className="flex flex-col w-full mx-3 gap-8 mt-16">
         <h1
           className="text-2xl lg:text-3xl lg:no-underline font-bold text-center underline underline-offset-4 text-myZinc-40"

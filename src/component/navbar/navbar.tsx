@@ -60,8 +60,8 @@ const Navbar = () => {
           </button>
         </div>
 
-        <div className="lg:flex hidden flex-row items-center justify-center gap-12 mt-12 lg:mt-0 text-md">
-          <ul className="flex lg:space-x-12 mr-4">
+        <div className="lg:flex hidden flex-row items-center justify-center gap-12 mt-12 lg:mt-0 text-md text-gray-800">
+          <ul className="flex lg:space-x-6 mr-4">
             <li>
               <a
                 href="#home"

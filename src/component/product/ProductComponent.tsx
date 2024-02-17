@@ -93,7 +93,7 @@ function ProductComponent() {
   ];
 
   return (
-    <section id="products" className="mt-20 md:-mt-24 lg:mt-16">
+    <section id="products" className="mt-20 md:-mt-24 lg:mt-60">
       <div className="flex flex-col w-full  items-center justify-center">
         <h1
           className="text-2xl lg:text-3xl font-bold text-myZinc-40 underline underline-offset-4 mb-6 md:no-underline md:underline-offset-0 md:pt-8"
@@ -111,7 +111,7 @@ function ProductComponent() {
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="1000"
-            data-aos-offset="50"
+            data-aos-offset="5"
           >
             <div className="flex items-center lg:w-full lg:h-96 justify-center">
               <img
